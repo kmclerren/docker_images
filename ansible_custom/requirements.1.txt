@@ -1,0 +1,12 @@
+ansible==2.9.9
+ansible-lint
+bandit
+black
+paramiko
+pylint
+pynetbox==4.3.3
+pytest
+pytest-pythonpath
+textfsm
+yamllint
+ncclient
